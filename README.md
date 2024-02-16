@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jiro2024
-- 👀 I’m interested github.com/rust-lang/rust
+- 👀 I’m interested Genshin
 - 🌱 I’m currently learning github.com/rust-lang/rust
-- 💞️ I’m looking to collaborate on I don't have a company I want to work for
+- 💞️ I’m looking to collaborate on miHoYo
 - 📫 How to reach me QQ:3187909557
 - 😄 Pronouns: L
 - ⚡ Fun fact: No Fun fact
