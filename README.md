@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jiro | 候杨宝鑫
 - 👀 I’m interested Genshin
 - 🌱 I’m currently learning github.com/rust-lang/rust
-- 💞️ I’m looking to collaborate on @Jarrel
 - 📫 How to reach me QQ:3187909557 BiliBili:1957133253
 - 😄 Pronouns: SB NT
 - ⚡ Fun fact: CS2
